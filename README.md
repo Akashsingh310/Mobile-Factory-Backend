@@ -15,7 +15,7 @@ Then open new termial and paste `Invoke-WebRequest -Method POST -ContentType "ap
 
 ## Output
 
-![output]()
+![output](https://github.com/Akashsingh310/Mobile-Factory-Backend/blob/main/1.png)
 
 
 ## Testing

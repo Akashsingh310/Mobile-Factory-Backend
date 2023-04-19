@@ -19,6 +19,7 @@ Prerequisites to be installed - Python3
 
 ## Testing
 
-I have added 4 Test cases, So for running this you can use the command `python test.py` you will see the how many test cases passed
+4 different test cases have been provided in test.py where each case checks if the total sum of a combination equals the expected data already given in the case. If so, it is declared to pass, else it fails.
+For running this you can use the command `python test.py`.
 `
 

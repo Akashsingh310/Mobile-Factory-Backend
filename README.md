@@ -16,6 +16,6 @@ Then open new termial and paste `Invoke-WebRequest -Method POST -ContentType "ap
 
 ## Testing
 
-I have added 4 Test cases, So for running this you can use the command `python test.py` you will see the no of test cases passed
+I have added 4 Test cases, So for running this you can use the command `python test.py` you will see the how many test cases passed
 `
 

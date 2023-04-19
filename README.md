@@ -13,6 +13,9 @@ First Open the main.py and run `python main.py`
 
 Then open new termial and paste `Invoke-WebRequest -Method POST -ContentType "application/json" -Body '{"components": ["I","A","D","F","K"]}' -Uri http://127.0.0.1:5000/orders` this command you give you output
 
+## Output
+
+
 
 ## Testing
 

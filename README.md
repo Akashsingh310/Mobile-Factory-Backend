@@ -1,17 +1,16 @@
 # Mobile-Factory-Backend
 
-This repository contains a simple Flask app that provides an API for processing orders
+This repository contains a simple Flask app that provides an API for processing orders.
+
+Prerequisites to be installed - Python3
 
 ## Installation
 
-To install the app, you will need to have Python 3 installed on your system. First fork this repo then You can then clone this repository by using command `git clone`
-and install the required dependencies using `pip`
+1. First fork this repo and then clone this repository by using the command `git clone` and install the required dependencies using `pip`.
 
-You can use any editor I have used Pycharm 
+2. Open main.py and run `python main.py`.
 
-First Open the main.py and run `python main.py` 
-
-Then open new termial and paste `Invoke-WebRequest -Method POST -ContentType "application/json" -Body '{"components": ["I","A","D","F","K"]}' -Uri http://127.0.0.1:5000/orders` this command you give you output
+3. Now open new termial and paste `Invoke-WebRequest -Method POST -ContentType "application/json" -Body '{"components": ["I","A","D","F","K"]}' -Uri http://127.0.0.1:5000/orders` this command you give you output
 
 ## Output
 
